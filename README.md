@@ -2,6 +2,8 @@
 
 August 2019 | Instructor: Craig McKeachie
 
+- [Challenges](http://lib.accelebrate.com/201908_ATT/challenges.zip)
+
 ## Day 1
 
 - [ES (JS) Import Syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
