@@ -13,8 +13,10 @@ August 2019 | Instructor: Craig McKeachie
 - [Prettier Language Support](https://prettier.io/docs/en/index.html)
 
 - [Link for Remote Attendees](https://attendee.gototraining.com/r/6017775973692715009)
+- [Virtual Machine for Labs](https://gist.github.com/craigmckeachie/08c0c2be7ed8fac5a1ba97aa4ea4c4d3)
 
-----------------
+---
+
 # Courseware Errata Version 8.0.3.0
 
 ## npm audit vulnerabilities
@@ -59,41 +61,48 @@ npm run applications
 Since differential builds are enabled by default in the Angular CLI to get the project to display in IE 11 or lower you would need to turn off differential builds by following these steps in Lab 29: Step 19 a & b (be sure to the additional information below).
 
 ## Lab 4 & 5
+
 Instead of grouping labs
 Lab 4
 then
 Lab 5,6,7
 
----------
+---
+
 consider doing
 Lab 4,5
-then 
-Lab 6,7 
+then
+Lab 6,7
 
 ## Lab 5 Step 2
+
 The command skipTests should include two hypens before it as shown below.
+
 ```
 ng g class projects/shared/project --skipTests
 ```
+
 Alternatively you could run the following command to tell the Angular CLI that you want to create a class that is a model so you want to name the file `project.model.ts` NOT `project.ts`
 
 ```
 ng g class projects/shared/project  --skipTests --type='model'
 ```
 
-> --type 
-> 
+> --type
+>
 > Adds a developer-defined type to the filename, in the format "name.type.ts".
 
 ## Lab 5: Step 6
-The code snippet is correct and uses `MOCK_PROJECTS` as the variable name, however the code block in the book still names the variable `PROJECTS` not `MOCK_PROJECTS` 
+
+The code snippet is correct and uses `MOCK_PROJECTS` as the variable name, however the code block in the book still names the variable `PROJECTS` not `MOCK_PROJECTS`
 
 > Most people will not notice this but someone may point it out
 
 ## Lab 18, step 2
+
 ? in template is not required
 
-## Lab 29: Step 19 a 
+## Lab 29: Step 19 a
 
 ### project-manage\tsconfig.json
 
@@ -119,8 +128,10 @@ The code snippet is correct and uses `MOCK_PROJECTS` as the variable name, howev
 }
 ```
 
-## Lab 29: Step 19 b 
+## Lab 29: Step 19 b
+
 ### project-manage\browserslist
+
 ```diff
 # This file is currently used by autoprefixer to adjust CSS to support the below specified browsers
 # For additional information regarding the format and rule options, please see:
@@ -138,12 +149,10 @@ not dead
 ```
 
 ## Unit Testing Lab 3: Step 4
+
 Code snippet doesn't include import for project object which needs to be added.
 See below for import path if needed.
 
 ```js
 import { Project } from '../shared/project.model';
 ```
-
-
-
