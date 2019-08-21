@@ -18,6 +18,7 @@ August 2019 | Instructor: Craig McKeachie
 
 - [DatePipe](https://angular.io/api/common/DatePipe)
 - [Emmet:HTML Completion Cheatsheet](https://docs.emmet.io/cheat-sheet/)
+- [Select: Dropdowns](https://material.angular.io/components/select/overview)
 
 ### Libraries
 
