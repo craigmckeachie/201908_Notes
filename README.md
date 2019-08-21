@@ -2,6 +2,8 @@
 
 August 2019 | Instructor: Craig McKeachie
 
+## Day 1
+
 - [ES (JS) Import Syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
 - [ES Compatibility Chart](http://kangax.github.io/compat-table/es6/)
 - [Mini.css](https://minicss.org/)
@@ -11,6 +13,18 @@ August 2019 | Instructor: Craig McKeachie
 - [TypeScript Compiler Options](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
 - [Prettier (code formatter)](https://prettier.io/)
 - [Prettier Language Support](https://prettier.io/docs/en/index.html)
+
+## Day 2
+
+- [DatePipe](https://angular.io/api/common/DatePipe)
+- [Emmet:HTML Completion Cheatsheet](https://docs.emmet.io/cheat-sheet/)
+
+### Libraries
+
+- [Creating Libraries](https://angular.io/guide/creating-libraries)
+- [Workspace & Project File Structure](https://angular.io/guide/file-structure#library-project-files)
+
+## Virtual
 
 - [Link for Remote Attendees](https://attendee.gototraining.com/r/6017775973692715009)
 - [Virtual Machine for Labs](https://gist.github.com/craigmckeachie/08c0c2be7ed8fac5a1ba97aa4ea4c4d3)
