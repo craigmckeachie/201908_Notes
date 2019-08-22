@@ -2,6 +2,7 @@
 
 August 2019 | Instructor: Craig McKeachie
 
+- [Angular Demo Manual](https://s3.amazonaws.com/lib.accelebrate.com/201908_NBME/AngularDemosManual.pdf?AWSAccessKeyId=AKIAIDHGUGNJBHZ3Z36A&Expires=1566502611&Signature=%2BQ9Gd2gmqvSyaeNOHVv%2Bdn2eHKs%3D)
 - [Challenges](http://lib.accelebrate.com/201908_ATT/challenges.zip)
 
 ## Day 1
