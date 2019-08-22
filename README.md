@@ -33,6 +33,30 @@ August 2019 | Instructor: Craig McKeachie
 - [Link for Remote Attendees](https://attendee.gototraining.com/r/6017775973692715009)
 - [Virtual Machine for Labs](https://gist.github.com/craigmckeachie/08c0c2be7ed8fac5a1ba97aa4ea4c4d3)
 
+## UI Frameworks
+
+In general, this page on the Angular documentation lists all the options.
+https://angular.io/resources#ui-components
+
+In my opinion the 4 Best UI Component Suites for Angular are:
+
+- Material: https://material.angular.io/ (open source/free)
+- Clarity: https://vmware.github.io/clarity/ (open source/free)
+- Kendo: https://www.telerik.com/kendo-angular-ui (open source/paid)
+- Bootstrap: https://ng-bootstrap.github.io/#/home (open source/free)
+
+# Angular Resources
+
+[Angular Documentation](https://angular.io/docs)
+
+[The Unofficial Angular Documentation](http://ngdoc.io/)
+
+[Angular in Depth](https://blog.angularindepth.com/best-stories-of-2018-on-angular-in-depth-80a1dfa17fd5)
+
+[Nrwl: Enterprise Angular Consulting Blog](https://blog.nrwl.io/)
+
+[Todd Motto Blog](https://toddmotto.com/)
+
 ---
 
 # Courseware Errata Version 8.0.3.0
